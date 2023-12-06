@@ -1,0 +1,36 @@
+.title{ color: red}
+P{
+    color: yellowgreen;
+    font-size: 20px;
+}
+body {
+    background-color:blue;
+ }
+#paral {
+    text-align: : center;
+    color : yellow;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+p{
+    text-align: center;
+    cold: red;
+}
+button{
+    background-color: #04AA6D; /*
+    Green */
+    border: none;
+    color: red;
+    padding:15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
